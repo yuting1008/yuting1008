@@ -3,7 +3,7 @@
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Information Management at National Taiwan University.
-- 💼 &nbsp; Currently looking for jobs as a Software Engineer Intern.
+- 💼 &nbsp; Currently work as a Technical Solution Engineer Intern at Appier.
 - 🌱 &nbsp; Learning more about Software Development, Data Science, and Cloud Computing.
 - 🪩 &nbsp; Pursuing workout and dancing as hobbies.
 
