@@ -2,10 +2,10 @@
 
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Information Management at National Taiwan University.
+- 🎓 &nbsp; Pursuing the Master of Engineering at UC Berkeley EECS.
 - 💼 &nbsp; Previously worked as an intern at Microsoft, Appier, PwC, and DBS Bank.
 - 🌱 &nbsp; Learning more about Software Development, Data Science, and Cloud Computing.
-- 🪩 &nbsp; Pursuing workout and dancing as hobbies.
+- 🪩 &nbsp; Enjoying weight lifting, swimming, dancing, and cooking as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -16,10 +16,10 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![SQL)](https://img.shields.io/badge/-SQL-333333?style=flat&logo=PostgreSQL&logoColor=276DC3)
 - 🌐 &nbsp;
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
