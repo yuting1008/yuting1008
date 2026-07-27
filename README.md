@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Pursuing the Master of Engineering at UC Berkeley EECS.
 - 💼 &nbsp; Previously worked as an intern at Microsoft, Appier, PwC, and DBS Bank.
 - 🌱 &nbsp; Learning more about Software Development, Data Science, and Cloud Computing.
-- 🪩 &nbsp; Enjoying weight lifting, swimming, dancing, and cooking as hobbies.
+- 🪩 &nbsp; Enjoying weight training, swimming, dancing, and cooking as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -24,9 +24,9 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - ☁️ &nbsp;
   [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-333333?logo=msazure)](#)
+  [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud&logoColor=4285F4)](#)
 
 
 
